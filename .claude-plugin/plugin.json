@@ -1,0 +1,10 @@
+{
+  "name": "interform",
+  "version": "0.1.0",
+  "description": "Design patterns and visual quality for Claude Code — distinctive, production-grade interfaces.",
+  "author": { "name": "MK", "email": "mistakeknot@vibeguider.org" },
+  "repository": "https://github.com/mistakeknot/interform",
+  "license": "MIT",
+  "keywords": ["design", "ui", "ux", "visual", "interface"],
+  "skills": ["./skills/distinctive-design"]
+}
