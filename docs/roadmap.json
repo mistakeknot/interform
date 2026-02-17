@@ -1,0 +1,15 @@
+{
+  "module_summary": "Interform raises visual and interaction quality for user-facing artifacts and interface workflows.",
+  "roadmap": {
+    "now": [
+      {"id": "IFRM-N1", "title": "Stabilize design validation hooks for generated interface specs.", "priority": "P1"}
+    ],
+    "next": [
+      {"id": "IFRM-N2", "title": "Add Clavain-readable UI quality templates to standard workflows.", "priority": "P1"},
+      {"id": "IFRM-N3", "title": "Integrate layout and accessibility checks into review artifacts.", "priority": "P2"},
+      {"id": "IFRM-L1", "title": "Create a reusable visual style registry with versioned contracts.", "priority": "P2"}
+    ],
+    "later": [
+    ]
+  }
+}
