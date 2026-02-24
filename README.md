@@ -2,7 +2,7 @@
 
 Design patterns and visual quality for Claude Code.
 
-## What This Does
+## What this does
 
 A single skill that provides design guidance across web, TUI, native, and print mediums. The goal is production-grade interfaces that look intentional rather than the default "an AI generated this and nobody reviewed it" aesthetic.
 
